@@ -34,10 +34,10 @@ class StdOutListener(StreamListener):
 #conn.execute("DROP TABLE TWEETS")
     
 
-consumer_key= 'hOYKG46TSV8TaTF5FovboxfpW'
-consumer_secret= 'Ol1DQX2DOqJvXrRL0JlK7RoVR0fFVLf5Yfz8uu68zSC41z0kVh'
-access_token= '1290894297311502337-7E5TY2a9QkRQGpey5nW6Ar27hXnL0H'
-access_token_secret= '9b3FnzXc6A3QKKcjV7sd7C61xLU0OXWwFdwWQxLCI35gW'
+consumer_key= ''
+consumer_secret= ''
+access_token= ''
+access_token_secret= ''
 
 
 

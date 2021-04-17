@@ -1,0 +1,34 @@
+->Language dominance    *-home
+->Emotional dominance(classification) - tweets
+->Verified(pie chart)		*-pos
+->non-verified(pie chart)	*-pos
+->no.of followers vs fav count(cluster) 	*-pos
+->sentimentscore vs word length(cluster)		*-sen
+->sentimentscore vs maximum features(cluster)		*-sen
+->sentimentscore vs class(bar)		-sen
+->Positive tweets(verified vs non-verified)		*-pos
+->Negative tweets(verified vs non-verified)	*-sen
+->Labels 1 angry(verified vs non-verified) -tweets
+->Labels 2 sad(verified vs non-verified)-tweets
+->Labels 3 happy(verified vs non-verified)-tweets
+->Labels 4 informative(verified vs non-verified)-tweets
+->verified 4(labels) -pos
+->non verified 4(labels)-pos
+->posneg(pie chart)-  *home
+
+ dark blue-#152238
+dark grey - #D9DEE4  #5d758f
+classes:
+seaborn
+angry
+informative
+fear
+happy
+
+
+->pos *verifiedvsnon *likes analysis *varied emotions
+->tweets *Emotional dominance *verifiedvsnon 
+->sentiments *wordlength *Sentiment score classification*Negative tweets 
+
+
+

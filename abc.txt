@@ -1,0 +1,27 @@
+On
+display logo 
+home screen 
+      enter value - display on oled
+      sensor value - display on oled - on sensing
+      time - display on oled 
+      I / D - display on oled - when performed
+
+->When u r positive it not only makes u better but it also makes those around you better.
+->Team C V. Shanmuga Lakshmi Samathmika.K J.Vishvaja
+->Sentiment analysis of Covid 19 tweets.
+->We have designed a website for the same- The Covid Analyser
+->The Covid Analyser aims to bestow a ray of hope during this worst battle.
+->Now moving on lets see the back end behind this project.
+->3 main codes
+->We had chosen a dataset consisting of several columns such as date time tweets verified favourite count followers language 
+->......cluster,class
+->twint
+->weekly
+->database
+-> the back end framework used in this project is flask
+->Covid Analyzer
+There is always hope
+
+
+
+
